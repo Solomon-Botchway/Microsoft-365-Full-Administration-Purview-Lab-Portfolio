@@ -477,9 +477,9 @@ Store supporting screenshots under:
 evidence/m365/
 ```
 
-Recommended evidence:
+Screenshot evidence:
 
-| Screenshot | Suggested filename |
+| Screenshot | filename |
 |---|---|
 | Active users list |  |
 | Bulk licence assignment |  |
