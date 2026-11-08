@@ -481,10 +481,10 @@ Recommended evidence:
 
 | Screenshot | Suggested filename |
 |---|---|
-| Active users list | `m365-active-users.png` |
-| Bulk licence assignment | `bulk-license-assignment.png` |
-| Admin role accounts | `admin-role-accounts.png` |
-| MFA authentication test | `admin-mfa-test.png` |
-| Conditional Access policies | `conditional-access-policies.png` |
-| Sign-in logs | `signin-log-analysis.png` |
-| Auditor offboarding | `auditor-offboarding.png` |
+| Active users list |  |
+| Bulk licence assignment |  |
+| Admin role accounts | |
+| MFA authentication test |  |
+| Conditional Access policies |  |
+| Sign-in logs |  |
+| Auditor offboarding | |
